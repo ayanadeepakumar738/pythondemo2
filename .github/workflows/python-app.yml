@@ -49,4 +49,4 @@ test:
 
       - name: Run tests
         run: |
-          pytest
+          pytest -v
